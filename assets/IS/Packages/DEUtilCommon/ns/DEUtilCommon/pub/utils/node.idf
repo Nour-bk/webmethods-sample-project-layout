@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared"></value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.app.b2b.server.InvokeState</value>
+    <value>java.util.Arrays</value>
+    <value>java.util.HashSet</value>
+    <value>java.util.Set</value>
+    <value>com.wm.lang.ns.NSNode</value>
+    <value>java.lang.Object</value>
+    <value>java.util.List</value>
+  </array>
+</Values>

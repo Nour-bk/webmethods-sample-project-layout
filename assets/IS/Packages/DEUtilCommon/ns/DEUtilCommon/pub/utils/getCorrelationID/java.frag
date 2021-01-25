@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getCorrelationID</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">U3RyaW5nW10gY29udGV4dFN0YWNrOw0KU3RyaW5nIGN1cnJlbnRSb290SUQgPSAiIjsNCnRyeSB7
+DQoJY29udGV4dFN0YWNrID0gSW52b2tlU3RhdGUuZ2V0Q3VycmVudFN0YXRlKCkuZ2V0QXVkaXRS
+dW50aW1lKCkuZ2V0Q29udGV4dFN0YWNrKCk7DQoJY3VycmVudFJvb3RJRCA9IGNvbnRleHRTdGFj
+a1swXTsNCgkNCn0gY2F0Y2ggKEV4Y2VwdGlvbiBleCkgew0KCVNlcnZpY2VFeGNlcHRpb24gc3gg
+PSBuZXcgU2VydmljZUV4Y2VwdGlvbihleCk7DQoJdGhyb3cgc3g7DQp9DQovLyBwaXBlbGluZQ0K
+SURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KSURh
+dGFVdGlsLnB1dChwaXBlbGluZUN1cnNvcl8xLCAicm9vdENvbnRleHRJRCIsIGN1cnJlbnRSb290
+SUQpOw0KDQpwaXBlbGluZUN1cnNvcl8xLmRlc3Ryb3koKTsgDQoJ</value>
+</Values>

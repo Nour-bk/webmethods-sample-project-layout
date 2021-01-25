@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getConfigFilename</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgYyA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KDQp0cnkgew0KDQoJU3RyaW5n
+CXBhY2thZ2VOYW1lID0gSURhdGFVdGlsLmdldFN0cmluZyggYywgInBhY2thZ2VOYW1lIiApOw0K
+CVN0cmluZwljb25maWdGaWxlbmFtZSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIGMsICJjb25maWdG
+aWxlbmFtZSIgKTsNCg0KICAgIFN0cmluZyBjb25maWdGaWxlID0gInBhY2thZ2VzIiArIEZpbGUu
+c2VwYXJhdG9yICsgcGFja2FnZU5hbWUgKyBGaWxlLnNlcGFyYXRvciArICJjb25maWciIA0KCQkJ
+CQkJKyBGaWxlLnNlcGFyYXRvciArIGNvbmZpZ0ZpbGVuYW1lICsgIi5wcm9wZXJ0aWVzIjsNCg0K
+CUlEYXRhVXRpbC5wdXQoYywgImNvbmZpZ0ZpbGUiLCBjb25maWdGaWxlKTsNCg0KfSBjYXRjaCAo
+RXhjZXB0aW9uIGUpIHsNCg0KCWMuZGVzdHJveSgpOw0KCXRocm93IG5ldyBTZXJ2aWNlRXhjZXB0
+aW9uKGUuZ2V0TWVzc2FnZSgpKTsNCg0KfQ0KDQpjLmRlc3Ryb3koKTsNCgk=</value>
+</Values>

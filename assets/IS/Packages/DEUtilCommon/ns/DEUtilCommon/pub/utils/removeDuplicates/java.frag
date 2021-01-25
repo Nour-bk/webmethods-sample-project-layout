@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">removeDuplicates</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNClN0cmlu
+Z1tdCWlucHV0TGlzdCA9IElEYXRhVXRpbC5nZXRTdHJpbmdBcnJheSggcGlwZWxpbmVDdXJzb3Is
+ICJpbnB1dExpc3QiICk7DQpwaXBlbGluZUN1cnNvci5kZXN0cm95KCk7DQpMaXN0PFN0cmluZz4g
+bGlzdCA9IEFycmF5cy5hc0xpc3QoaW5wdXRMaXN0KTsNCg0KU2V0PFN0cmluZz4gc2V0ID0gbmV3
+IEhhc2hTZXQ8PihsaXN0KTsNClN0cmluZ1tdIG91dHB1dExpc3QgPSBzZXQudG9BcnJheShuZXcg
+U3RyaW5nW3NldC5zaXplKCldKTsJCQ0KDQoNCg0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3Jf
+MSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KSURhdGFVdGlsLnB1dCggcGlwZWxpbmVDdXJzb3Jf
+MSwgIm91dHB1dExpc3QiLCBvdXRwdXRMaXN0ICk7DQpwaXBlbGluZUN1cnNvcl8xLmRlc3Ryb3ko
+KTs=</value>
+</Values>

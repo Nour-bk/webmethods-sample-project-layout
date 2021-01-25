@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">c3RhdGljIFJlYWRlciBnZXRSZWFkZXIoSURhdGFDdXJzb3IgY3Vyc29yLCBTdHJpbmcga2V5KQp7
+CiAgUmVhZGVyIHJlYWRlciA9IG51bGw7CiAgaWYgKGN1cnNvci5maXJzdChrZXkpKQogIHsKICAg
+IE9iamVjdCBvID0gY3Vyc29yLmdldFZhbHVlKCk7CiAgICBpZiAobyA9PSBudWxsKQogICAgewog
+ICAgICByZWFkZXIgPSBuZXcgU3RyaW5nUmVhZGVyKCIiKTsKICAgIH0KICAgIGVsc2UgaWYgKG8g
+aW5zdGFuY2VvZiBCdWZmZXJlZFJlYWRlcikKICAgIHsKICAgICAgcmVhZGVyID0gKEJ1ZmZlcmVk
+UmVhZGVyKSBvOwogICAgfQogICAgZWxzZSBpZiAobyBpbnN0YW5jZW9mIFJlYWRlcikKICAgIHsK
+ICAgICAgcmVhZGVyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKChSZWFkZXIpIG8pOwogICAgfQogICAg
+ZWxzZSBpZiAobyBpbnN0YW5jZW9mIElucHV0U3RyZWFtKQogICAgewogICAgICByZWFkZXIgPSBu
+ZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKChJbnB1dFN0cmVhbSkgbykp
+OwogICAgfQogICAgZWxzZSBpZiAobyBpbnN0YW5jZW9mIFN0cmluZykKICAgIHsKICAgICAgcmVh
+ZGVyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBTdHJpbmdSZWFkZXIoKFN0cmluZykgbykpOwog
+ICAgfQogICAgZWxzZSBpZiAobyBpbnN0YW5jZW9mIGJ5dGVbXSkKICAgIHsKICAgICAgcmVhZGVy
+ID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihuZXcgQnl0ZUFycmF5
+SW5wdXRTdHJlYW0oKGJ5dGVbXSkgbykpKTsKICAgIH0KICB9CiAgcmV0dXJuIHJlYWRlcjsKCn0K
+CnN0YXRpYyBXcml0ZXIgZ2V0V3JpdGVyKElEYXRhQ3Vyc29yIGN1cnNvciwgU3RyaW5nIGtleSkK
+ewogIFdyaXRlciB3cml0ZXIgPSBuZXcgU3RyaW5nV3JpdGVyKCk7CiAgaWYgKGN1cnNvci5maXJz
+dChrZXkpKQogIHsKICAgIE9iamVjdCBvID0gY3Vyc29yLmdldFZhbHVlKCk7CiAgICBpZiAobyA9
+PSBudWxsKQogICAgewogICAgICByZXR1cm4gd3JpdGVyOwogICAgfQogICAgZWxzZSBpZiAobyBp
+bnN0YW5jZW9mIEJ1ZmZlcmVkV3JpdGVyKQogICAgewogICAgICB3cml0ZXIgPSAoQnVmZmVyZWRX
+cml0ZXIpIG87CiAgICB9CiAgICBlbHNlIGlmIChvIGluc3RhbmNlb2YgV3JpdGVyKQogICAgewog
+ICAgICB3cml0ZXIgPSBuZXcgQnVmZmVyZWRXcml0ZXIoKFdyaXRlcikgbyk7CiAgICB9CiAgICBl
+bHNlIGlmIChvIGluc3RhbmNlb2YgT3V0cHV0U3RyZWFtKQogICAgewogICAgICB3cml0ZXIgPSBu
+ZXcgQnVmZmVyZWRXcml0ZXIobmV3IE91dHB1dFN0cmVhbVdyaXRlcigoT3V0cHV0U3RyZWFtKSBv
+KSk7CiAgICB9CiAgfQogIHJldHVybiB3cml0ZXI7Cgp9Cgk=</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.io.BufferedReader</value>
+    <value>java.io.BufferedWriter</value>
+    <value>java.io.ByteArrayInputStream</value>
+    <value>java.io.InputStream</value>
+    <value>java.io.InputStreamReader</value>
+    <value>java.io.OutputStream</value>
+    <value>java.io.OutputStreamWriter</value>
+    <value>java.io.Reader</value>
+    <value>java.io.StringReader</value>
+    <value>java.io.StringWriter</value>
+    <value>java.io.Writer</value>
+    <value>com.wm.data.IData</value>
+    <value>com.wm.data.IDataCursor</value>
+    <value>com.wm.data.IDataUtil</value>
+    <value>com.wm.lang.ns.NSService</value>
+  </array>
+</Values>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">cHVibGljIHN0YXRpYyBTdHJpbmcgcmVwbGFjZShTdHJpbmcgY2hhaW5lLCBTdHJpbmcgb2xkQ2hh
+ciwgU3RyaW5nIG5ld0NoYXIpIHRocm93cyBFeGNlcHRpb24gewoJCglTdHJpbmcgcnRuU3RyaW5n
+ID0gY2hhaW5lOwoJamF2YS51dGlsLlN0cmluZ1Rva2VuaXplciBzdENoYWluZSA9IG5ldyBqYXZh
+LnV0aWwuU3RyaW5nVG9rZW5pemVyKGNoYWluZSwgb2xkQ2hhcik7CglpZiAoc3RDaGFpbmUuaGFz
+TW9yZVRva2VucygpKSB7CgkJcnRuU3RyaW5nID0gc3RDaGFpbmUubmV4dFRva2VuKCk7Cgl9Cgl3
+aGlsZSAoc3RDaGFpbmUuaGFzTW9yZVRva2VucygpKSB7CgkJcnRuU3RyaW5nICs9IG5ld0NoYXIg
+KyBzdENoYWluZS5uZXh0VG9rZW4oKTsKCX0KCglyZXR1cm4gcnRuU3RyaW5nOwp9CQoJ</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.lang.ns.NSService</value>
+    <value>java.io.File</value>
+    <value>java.io.InputStream</value>
+    <value>java.util.Enumeration</value>
+    <value>java.util.Properties</value>
+  </array>
+</Values>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgUGF0dGVybiBzcGVjaWFsVGltZXpvbmVQYXR0ZXJuID0gUGF0dGVybi5j
+b21waWxlKCI6PyhcXGR7Mn0pJCIpOwoKcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVM
+VF9QQVRURVJOID0gInl5eXkvTU0vZGQgSEg6bW06c3MuUyI7CgpwdWJsaWMgc3RhdGljIERhdGUg
+c3RyaW5nVG9EYXRlKFN0cmluZyBzRGF0ZSwgU3RyaW5nIHBhdHRlcm4pIHRocm93cyBQYXJzZUV4
+Y2VwdGlvbnsKCVNpbXBsZURhdGVGb3JtYXQgZm9ybWF0dGVyID0gbmV3IFNpbXBsZURhdGVGb3Jt
+YXQocGF0dGVybik7CiAJcmV0dXJuIGZvcm1hdHRlci5wYXJzZShzRGF0ZSk7Cn0KCnB1YmxpYyBz
+dGF0aWMgVGltZXN0YW1wIGRhdGVUb3NxbFRpbWVTdGFtcChEYXRlIGRhdGUpewoJcmV0dXJuIG5l
+dyBUaW1lc3RhbXAoZGF0ZS5nZXRUaW1lKCkpOwp9Cgpwcml2YXRlIHN0YXRpYyBib29sZWFuIGNv
+bXBhcmVEYXRlU3RyaW5ncyhTdHJpbmcgdmFsdWUxLCBTdHJpbmcgdmFsdWUyLCBTdHJpbmcgb3Bl
+cmF0b3IsIFN0cmluZyBwYXR0ZXJuKQp7CiAgaWYgKHZhbHVlMSA9PSBudWxsIHx8IHZhbHVlMiA9
+PSBudWxsKQogIHsKICAgIHJldHVybiBmYWxzZTsKICB9CgogIFN0cmluZyBkYXRlUGF0dGVybiA9
+IHBhdHRlcm47CgogIGlmIChwYXR0ZXJuID09IG51bGwpCiAgewogICAgZGF0ZVBhdHRlcm4gPSAi
+eXl5eS1NTS1kZCBISDptbTpzcy5TIjsKICB9CiAgbG9uZyB0aW1lMTsKICBsb25nIHRpbWUyOwoK
+ICBEYXRlRm9ybWF0IGRhdGVGb3JtYXQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdChkYXRlUGF0dGVy
+bik7CiAgdHJ5CiAgewogICAgRGF0ZSBkYXRlMSA9IGRhdGVGb3JtYXQucGFyc2UodmFsdWUxKTsK
+ICAgIERhdGUgZGF0ZTIgPSBkYXRlRm9ybWF0LnBhcnNlKHZhbHVlMik7CiAgICB0aW1lMSA9IGRh
+dGUxLmdldFRpbWUoKTsKICAgIHRpbWUyID0gZGF0ZTIuZ2V0VGltZSgpOwogIH0KICBjYXRjaCAo
+UGFyc2VFeGNlcHRpb24gcGUpCiAgewogICAgcmV0dXJuIGZhbHNlOwogIH0KCiAgaWYgKCI9Ii5l
+cXVhbHMob3BlcmF0b3IpKQogIHsKICAgIHJldHVybiB0aW1lMSA9PSB0aW1lMjsKICB9CiAgZWxz
+ZSBpZiAoIj4iLmVxdWFscyhvcGVyYXRvcikpCiAgewogICAgcmV0dXJuIHRpbWUxID4gdGltZTI7
+CiAgfQogIGVsc2UgaWYgKCI8Ii5lcXVhbHMob3BlcmF0b3IpKQogIHsKICAgIHJldHVybiB0aW1l
+MSA8IHRpbWUyOwogIH0KICBlbHNlIGlmICgiPj0iLmVxdWFscyhvcGVyYXRvcikpCiAgewogICAg
+cmV0dXJuIHRpbWUxID49IHRpbWUyOwogIH0KICBlbHNlIGlmICgiPD0iLmVxdWFscyhvcGVyYXRv
+cikpCiAgewogICAgcmV0dXJuIHRpbWUxIDw9IHRpbWUyOwogIH0KICByZXR1cm4gZmFsc2U7Cn0K
+CQ==</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.sql.Timestamp</value>
+    <value>java.text.DateFormat</value>
+    <value>java.text.ParseException</value>
+    <value>java.text.SimpleDateFormat</value>
+    <value>java.util.Calendar</value>
+    <value>java.util.Date</value>
+    <value>java.util.GregorianCalendar</value>
+    <value>java.util.Locale</value>
+    <value>java.util.regex.Matcher</value>
+    <value>java.util.regex.Pattern</value>
+    <value>javax.xml.bind.DatatypeConverter</value>
+    <value>com.wm.data.IData</value>
+    <value>com.wm.data.IDataCursor</value>
+    <value>com.wm.data.IDataFactory</value>
+    <value>com.wm.data.IDataUtil</value>
+    <value>com.wm.data.ValuesEmulator</value>
+  </array>
+</Values>
